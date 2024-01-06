@@ -14,5 +14,5 @@
 - Read code of [TransTab](https://arxiv.org/pdf/2205.09328.pdf)
 
 ## TODO
-- Reproduce [MEDITAB](https://arxiv.org/pdf/2305.12081.pdf) (Deadline: 2024/01/07 US Time)
-- Reproduce [TransTab](https://arxiv.org/pdf/2205.09328.pdf) (Deadline: 2024/01/14 US Time)
+- Reproduce [MEDITAB](https://arxiv.org/pdf/2305.12081.pdf) (Deadline: 2024/01/18 US Time)
+- Reproduce [TransTab](https://arxiv.org/pdf/2205.09328.pdf) (Deadline: 2024/01/18 US Time)
