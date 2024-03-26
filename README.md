@@ -16,3 +16,6 @@
 ## TODO
 - Reproduce [MEDITAB](https://arxiv.org/pdf/2305.12081.pdf) (Deadline: 2024/01/18 US Time)
 - Reproduce [TransTab](https://arxiv.org/pdf/2205.09328.pdf) (Deadline: 2024/01/18 US Time)
+
+# Update: 2024/03/26 US Time
+- I was having fever last week, I will catch up the progress next week
