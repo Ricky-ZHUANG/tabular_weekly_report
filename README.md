@@ -19,3 +19,7 @@
 
 # Update: 2024/03/26 US Time
 - I was having fever last week, I will catch up the progress next week
+---
+
+- I was trying to salve the bug "can't launch tensorboard" when launching jupyter notebook [SOLVED]
+- I was trying to launch jupyter notebook and open in my pc. It is running without error on server, but the link can't be opened in my pc. [still debugging]
