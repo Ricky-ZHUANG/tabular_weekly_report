@@ -21,7 +21,7 @@
 - I was having fever last week, I will catch up the progress next week
 ---
 # Update: 2024/04/10 US Time
-- I was trying to solve the bug "can't launch tensorboard" when launching jupyter notebook [SOLVED, I change the version of image]
+- I was trying to solve the bug "can't launch tensorboard" when launching jupyter notebook [SOLVED, I change the version of image to 19.09 pytorch]
 - I was trying to launch jupyter notebook and open in my pc. It is running without error on server, but the link can't be opened in my pc. [still debugging]
 ```
 jupyter notebook --ip 0.0.0.0 --no-browser --allow-root --port 7790 --notebook-dir notebooks/ &
