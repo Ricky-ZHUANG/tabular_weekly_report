@@ -20,6 +20,16 @@
 # Update: 2024/03/26 US Time
 - I was having fever last week, I will catch up the progress next week
 ---
-
+# Update: 2024/04/10 US Time
 - I was trying to salve the bug "can't launch tensorboard" when launching jupyter notebook [SOLVED]
 - I was trying to launch jupyter notebook and open in my pc. It is running without error on server, but the link can't be opened in my pc. [still debugging]
+```
+jupyter notebook --ip 0.0.0.0 --no-browser --allow-root --port 7790 --notebook-dir notebooks/ &
+```
+```
+ To access the notebook, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/nbserver-626-open.html
+    Or copy and paste one of these URLs:
+        http://hostname:8888/?token=XXX
+     or http://127.0.0.1:7791/?token=XXX
+```
