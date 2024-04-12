@@ -33,3 +33,14 @@ jupyter notebook --ip 0.0.0.0 --no-browser --allow-root --port 7790 --notebook-d
         http://hostname:8888/?token=XXX
      or http://127.0.0.1:7791/?token=XXX
 ```
+I tried the following method to forward this to my pc via running the following in my pc.
+```
+ssh -N -f -L localhost:8888:rzhuang@129.106.31.45:7791 rzhuang@129.106.31.39
+```
+it returns
+```
+rzhuang@129.106.31.39's password: 
+bind [127.0.0.1]:8888: Address already in use
+channel_setup_fwd_listener_tcpip: cannot listen to port: 8888
+Could not request local forwarding.
+```
